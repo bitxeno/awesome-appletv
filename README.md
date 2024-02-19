@@ -29,7 +29,7 @@
 
 ## 侧载
 
-[**sideloadly**](https://sideloadly.io/)： 开源 ipa 安装工具，支持 mac/windows
+<img align="center" width="18" src="./img/link.svg"> [**sideloadly**](https://sideloadly.io/)： 开源 ipa 安装工具，支持 mac/windows
 
 <img align="center" width="18" src="./img/github.svg"> [**misaka-tvOS**](https://github.com/straight-tamago/misaka-tvOS)：TrollStore 安装 app（只支持 tvOS 15/16+ 系统）
 
