@@ -14,7 +14,7 @@
 
 <img align="center" width="18" src="./img/appstore.svg"> [**Syncnext**](https://apps.apple.com/us/app/syncnext/id1591770603)：类似 tvbox 的 VOD 协议播放器，支持玩偶哥哥，低端等资源
 
-<img align="center" width="18" src="./img/appstore.svg"> [**VidHub**](https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164)：媒体播放器应用，能像 Infuse 一样自动刮削视频文件信息
+<img align="center" width="18" src="./img/appstore.svg"> [**VidHub**](https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164)：媒体播放器 app，能像 Infuse 一样自动刮削视频文件信息
 
 <img align="center" width="18" src="./img/appstore.svg"> [**Fileball**](https://apps.apple.com/cn/app/fileball/id1558391784)：多媒体播放器，支持 emby 直连，文件管理，支持弹幕
 
