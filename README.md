@@ -44,3 +44,5 @@
 <img align="center" width="18" src="./img/github.svg"> [**atvloadly**](https://github.com/bitxeno/atvloadly)：docker运行的侧载工具（只支持 tvOS 15/16+ 系统）
 
 ## 使用指南
+
+[Apple TV 官方使用手册](https://support.apple.com/zh-cn/guide/tv/welcome/tvos)
