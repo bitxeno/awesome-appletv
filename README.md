@@ -2,7 +2,7 @@
 
 ## 推荐软件
 
-### 媒体
+### 影音
 
 <img align="center" width="18" src="./img/appstore.svg"> [**Miao Project**](https://apps.apple.com/us/app/miao-project/id1563875379)：最早的 B 站 app
 
@@ -18,16 +18,17 @@
 
 <img align="center" width="18" src="./img/appstore.svg"> [**Fileball**](https://apps.apple.com/cn/app/fileball/id1558391784)：多媒体播放器，支持 emby 直连，文件管理，支持弹幕
 
+<img align="center" width="18" src="./img/appstore.svg"> [**Alplayer**](https://apps.apple.com/au/app/alplayer/id1660917007)：功能丰富的云盘播放器，支持 115，pikpak 等网盘
+
+<img align="center" width="18" src="./img/github.svg"> [**NeteaseTVDemo**](https://github.com/ZhangDo/NeteaseTVDemo)：开源网易云音乐 app
+
+
+### 电视
+
 <img align="center" width="18" src="./img/appstore.svg"> [**APTV**](https://apps.apple.com/cn/app/aptv/id1630403500)：可实时预览的 IPTV 电视直播 app
 
 <img align="center" width="18" src="./img/appstore.svg"> [**BestTV**](https://apps.apple.com/cn/app/besttv-live-stream-player/id6443592543)：IPTV 电视直播 app，支持多源切换
 
-<img align="center" width="18" src="./img/appstore.svg"> [**Alplayer**](https://apps.apple.com/au/app/alplayer/id1660917007)：功能丰富的云盘播放器，支持 115，pikpak 等网盘
-
-
-### 音乐
-
-<img align="center" width="18" src="./img/github.svg"> [**NeteaseTVDemo**](https://github.com/ZhangDo/NeteaseTVDemo)：开源网易云音乐 app
 
 ### 游戏
 
