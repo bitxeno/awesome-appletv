@@ -18,7 +18,7 @@
 
 <img align="center" width="18" src="./img/appstore.svg"> [**Fileball**](https://apps.apple.com/cn/app/fileball/id1558391784)：多媒体播放器，支持 emby 直连，文件管理，支持弹幕
 
-<img align="center" width="18" src="./img/appstore.svg"> [**Alplayer**](https://apps.apple.com/au/app/alplayer/id1660917007)：功能丰富的云盘播放器，支持 115，pikpak 等网盘
+<img align="center" width="18" src="./img/appstore.svg"> [**Alplayer**](https://apps.apple.com/au/app/alplayer/id1660917007)：功能丰富的云盘播放器，支持 115，pikpak、夸克等网盘
 
 <img align="center" width="18" src="./img/github.svg"> [**NeteaseTVDemo**](https://github.com/ZhangDo/NeteaseTVDemo)：开源网易云音乐 app
 
