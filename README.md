@@ -22,6 +22,8 @@
 
 <img align="center" width="18" src="./img/appstore.svg"> [**BestTV**](https://apps.apple.com/cn/app/besttv-live-stream-player/id6443592543)：IPTV 电视直播 app，支持多源切换
 
+<img align="center" width="18" src="./img/appstore.svg"> [**Alplayer**](https://apps.apple.com/au/app/alplayer/id1660917007)：功能丰富的云盘播放器，支持 115，pikpak 等网盘
+
 
 ### 音乐
 
