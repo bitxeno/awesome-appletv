@@ -10,8 +10,6 @@
 
 <img align="center" width="18" src="./img/github.svg"> [**ATV-Bilibili-demo**](https://github.com/yichengchen/ATV-Bilibili-demo)：开源 B 站 app
 
-<img align="center" width="18" src="./img/github.svg"> [**SimpleLiveTVOS**](https://github.com/pcccccc/SimpleLiveTVOS)：开源直播聚合 app
-
 <img align="center" width="18" src="./img/appstore.svg"> [**Syncnext**](https://apps.apple.com/us/app/syncnext/id1591770603)：类似 tvbox 的 VOD 协议播放器，支持玩偶哥哥，低端等资源
 
 <img align="center" width="18" src="./img/appstore.svg"> [**VidHub**](https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164)：媒体播放器 app，能像 Infuse 一样自动刮削视频文件信息
@@ -19,6 +17,8 @@
 <img align="center" width="18" src="./img/appstore.svg"> [**Fileball**](https://apps.apple.com/cn/app/fileball/id1558391784)：多媒体播放器，支持 emby 直连，文件管理，支持弹幕
 
 <img align="center" width="18" src="./img/appstore.svg"> [**Alplayer**](https://apps.apple.com/au/app/alplayer/id1660917007)：功能丰富的云盘播放器，支持 115，pikpak、夸克等网盘
+
+<img align="center" width="18" src="./img/github.svg"> [**SimpleLiveTVOS**](https://github.com/pcccccc/SimpleLiveTVOS)：开源直播聚合 app
 
 <img align="center" width="18" src="./img/github.svg"> [**NeteaseTVDemo**](https://github.com/ZhangDo/NeteaseTVDemo)：开源网易云音乐 app
 
