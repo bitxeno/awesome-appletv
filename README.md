@@ -27,7 +27,7 @@
 
 <img align="center" width="18" src="./img/appstore.svg"> [**APTV**](https://apps.apple.com/cn/app/aptv/id1630403500)：可实时预览的 IPTV 电视直播 app
 
-<img align="center" width="18" src="./img/appstore.svg"> [**BestTV**](https://apps.apple.com/cn/app/besttv-live-stream-player/id6443592543)：IPTV 电视直播 app，支持多源切换
+<img align="center" width="18" src="./img/appstore.svg"> [**BestTV**](https://apps.apple.com/cn/app/besttv-live-stream-player/id6443592543)：简洁的 IPTV 电视直播 app，支持多源切换
 
 
 ### 游戏
