@@ -12,25 +12,27 @@
 
 <img align="center" width="18" src="./img/appstore.svg"> [**Syncnext**](https://apps.apple.com/us/app/syncnext/id1591770603)：类似 tvbox 的 VOD 协议播放器，支持玩偶哥哥，低端等资源
 
-<img align="center" width="18" src="./img/appstore.svg"> [**VidHub**](https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164)：媒体播放器 app，能像 Infuse 一样自动刮削视频文件信息
+<img align="center" width="18" src="./img/appstore.svg"> [**SenPlayer**](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850)：多媒体播放器，支持 emby 直连，杜比视界
 
 <img align="center" width="18" src="./img/appstore.svg"> [**Fileball**](https://apps.apple.com/cn/app/fileball/id1558391784)：多媒体播放器，支持 emby 直连，文件管理，支持弹幕
 
 <img align="center" width="18" src="./img/appstore.svg"> [**Alplayer**](https://apps.apple.com/au/app/alplayer/id1660917007)：功能丰富的云盘播放器，支持 115，pikpak、夸克等网盘
 
-<img align="center" width="18" src="./img/github.svg"> [**SimpleLiveTVOS**](https://github.com/pcccccc/SimpleLiveTVOS)：开源直播聚合 app
-
 <img align="center" width="18" src="./img/github.svg"> [**NeteaseTVDemo**](https://github.com/ZhangDo/NeteaseTVDemo)：开源网易云音乐 app
 
 
-### 电视
+### 电视/直播
 
 <img align="center" width="18" src="./img/appstore.svg"> [**APTV**](https://apps.apple.com/cn/app/aptv/id1630403500)：可实时预览的 IPTV 电视直播 app
 
 <img align="center" width="18" src="./img/appstore.svg"> [**BestTV**](https://apps.apple.com/cn/app/besttv-live-stream-player/id6443592543)：简洁的 IPTV 电视直播 app，支持多源切换
 
+<img align="center" width="18" src="./img/github.svg"> [**SimpleLiveTVOS**](https://github.com/pcccccc/SimpleLiveTVOS)：开源直播聚合 app
+
 
 ### 游戏
+
+<img align="center" width="18" src="./img/appstore.svg"> [**RetroArch**](https://apps.apple.com/us/app/retroarch/id6499539433)：强大的游戏模拟器 app
 
 <img align="center" width="18" src="./img/github.svg"> [**Provenance**](https://github.com/Provenance-Emu/Provenance)：开源模拟器 app，支持 SFC / N64 / PS1 / PSP 等
 
@@ -64,11 +66,11 @@
 
 ## 侧载
 
-<img align="center" width="18" src="./img/link.svg"> [**sideloadly**](https://sideloadly.io/)： 开源 ipa 安装工具，支持 mac/windows
+<img align="center" width="18" src="./img/link.svg"> [**sideloadly**](https://sideloadly.io/)： ipa 安装工具，支持 mac/windows
 
 <img align="center" width="18" src="./img/github.svg"> [**misaka-tvOS**](https://github.com/straight-tamago/misaka-tvOS)：TrollStore 安装 app（只支持 tvOS 15/16+ 系统）
 
-<img align="center" width="18" src="./img/github.svg"> [**atvloadly**](https://github.com/bitxeno/atvloadly)：docker运行的侧载工具（只支持 tvOS 15/16+ 系统）
+<img align="center" width="18" src="./img/github.svg"> [**atvloadly**](https://github.com/bitxeno/atvloadly)：docker运行的侧载工具
 
 ## 使用指南
 
