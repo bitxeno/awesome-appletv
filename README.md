@@ -2,7 +2,7 @@
 
 ## 推荐软件
 
-### 影音
+### 影视
 
 <img align="center" width="18" src="./img/appstore.svg"> [**Miao Project**](https://apps.apple.com/us/app/miao-project/id1563875379)：最早的 B 站 app
 
@@ -18,9 +18,6 @@
 
 <img align="center" width="18" src="./img/appstore.svg"> [**Alplayer**](https://apps.apple.com/au/app/alplayer/id1660917007)：功能丰富的云盘播放器，支持 115，pikpak、夸克等网盘
 
-<img align="center" width="18" src="./img/github.svg"> [**NeteaseTVDemo**](https://github.com/ZhangDo/NeteaseTVDemo)：开源网易云音乐 app
-
-
 ### 电视/直播
 
 <img align="center" width="18" src="./img/appstore.svg"> [**APTV**](https://apps.apple.com/cn/app/aptv/id1630403500)：可实时预览的 IPTV 电视直播 app
@@ -28,6 +25,12 @@
 <img align="center" width="18" src="./img/appstore.svg"> [**BestTV**](https://apps.apple.com/cn/app/besttv-live-stream-player/id6443592543)：简洁的 IPTV 电视直播 app，支持多源切换
 
 <img align="center" width="18" src="./img/github.svg"> [**SimpleLiveTVOS**](https://github.com/pcccccc/SimpleLiveTVOS)：开源直播聚合 app
+
+### 音乐
+
+<img align="center" width="18" src="./img/github.svg"> [**NeteaseTVDemo**](https://github.com/ZhangDo/NeteaseTVDemo)：开源网易云音乐 app
+
+<img align="center" width="18" src="./img/appstore.svg"> [**LMP**](https://apps.apple.com/us/app/lmp/id6451009326)：支持Emby, Navidrome 和 Plex 服务的音乐播放器
 
 
 ### 游戏
