@@ -8,11 +8,17 @@
 
 <img align="center" width="18" src="./img/appstore.svg"> [**Cheers**](https://apps.apple.com/us/app/cheers-danmu-player/id1643375332)：B 站 app，支持查看评论，连播等
 
+<img align="center" width="18" src="./img/appstore.svg"> [**MVision**](https://apps.apple.com/us/app/mvision-music/id6754966409)：B 站 app，Apple TV+式UI
+
 <img align="center" width="18" src="./img/github.svg"> [**ATV-Bilibili-demo**](https://github.com/yichengchen/ATV-Bilibili-demo)：开源 B 站 app
 
 <img align="center" width="18" src="./img/appstore.svg"> [**Syncnext**](https://apps.apple.com/us/app/syncnext/id1591770603)：类似 tvbox 的 VOD 协议播放器，支持玩偶哥哥，低端等资源
 
-<img align="center" width="18" src="./img/appstore.svg"> [**SenPlayer**](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850)：多媒体播放器，支持 emby 直连，杜比视界
+<img align="center" width="18" src="./img/appstore.svg"> [**Infuse**](https://apps.apple.com/us/app/infuse/id1136220934)：多媒体播放器，解码优秀，支持双杜比，影音播放唯一的神
+
+<img align="center" width="18" src="./img/appstore.svg"> [**SenPlayer**](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850)：多媒体播放器，支持 emby 直连，杜比视界，支持弹幕
+
+<img align="center" width="18" src="./img/appstore.svg"> [**Forward**](https://apps.apple.com/cn/app/forward-%E6%96%B0%E8%A7%86%E7%95%8C/id6503940939)：多媒体播放器，支持 emby 直连，支持插件化，自定义程度高
 
 <img align="center" width="18" src="./img/appstore.svg"> [**Fileball**](https://apps.apple.com/cn/app/fileball/id1558391784)：多媒体播放器，支持 emby 直连，文件管理，支持弹幕
 
@@ -20,7 +26,7 @@
 
 ### 电视/直播
 
-<img align="center" width="18" src="./img/appstore.svg"> [**APTV**](https://apps.apple.com/cn/app/aptv/id1630403500)：可实时预览的 IPTV 电视直播 app
+<img align="center" width="18" src="./img/appstore.svg"> [**APTV**](https://apps.apple.com/cn/app/aptv/id1630403500)：可实时预览的 IPTV 电视直播 app，最好用的电视直播app
 
 <img align="center" width="18" src="./img/appstore.svg"> [**BestTV**](https://apps.apple.com/cn/app/besttv-live-stream-player/id6443592543)：简洁的 IPTV 电视直播 app，支持多源切换
 
