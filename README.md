@@ -66,6 +66,8 @@
 
 <img align="center" width="18" src="./img/telegram.svg"> [**Airon浏览器/起飞了**](https://t.me/yunatv123)：AppleTV上唯一的浏览器应用（需邮件申请测试）
 
+<img align="center" width="18" src="./img/github.svg"> [**糖葫芦**](https://github.com/never88gone/HSBTVBrowser)：新的浏览器应用，现在TF测试中
+
 ### 系统工具
 
 <img align="center" width="18" src="./img/appstore.svg"> [**TOP - 资源监视器**](https://apps.apple.com/cn/app/top-%E8%B5%84%E6%BA%90%E7%9B%91%E8%A7%86%E5%99%A8/id1563875600)：TOP 是一款能查看CPU 、内存、存储、电池使用情况的应用
