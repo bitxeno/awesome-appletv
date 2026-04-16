@@ -74,6 +74,8 @@
 
 <img align="center" width="18" src="./img/appstore.svg"> [**UnPlay**](https://apps.apple.com/us/app/unplay/id6450034641)：像乐播一样的 DLNA 协议投屏工具
 
+<img align="center" width="18" src="./img/appstore.svg"> [**TV Stats**](https://apps.apple.com/us/app/tv-stats/id6756169120)：Apple TV 设备状态监测工具
+
 
 ## 侧载
 
